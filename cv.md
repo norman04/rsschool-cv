@@ -4,9 +4,9 @@
 Hello, I am beginner front-end developer and just learning the basics. This is difficult for me because I'm sick now. But i believe my desire to develop lead to success.
 
 ## Education 
-* NUST MISIS, Moscow
+* NUST MISIS, Moscow  
 2016-2017 mining engineer
-* Satbayev University, Almaty
+* Satbayev University, Almaty  
 2019-2021 robotic engineer
 
 ## Work Expirience
