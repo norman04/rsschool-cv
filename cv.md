@@ -5,9 +5,9 @@ Hello, I am beginner front-end developer and just learning the basics. This is d
 
 ## Education 
 * NUST MISIS, Moscow
-* 2016-2017 mining engeneer
+2016-2017 mining engineer
 * Satbayev University, Almaty
-* 2019-2021 robotic engineer
+2019-2021 robotic engineer
 
 ## Work Expirience
 * 2018-2019 soldier
